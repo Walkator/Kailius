@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - ReSpawn
+  - Water
+  - Coins
+  - Gems
+  - Stars
+  - Enemies
+  - Boss
+  - Chest
+  - Heart
+  - Sword
+  - Shield
+  - Patrols
+  - Instructor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Ground
+  - Player
+  - Camera
+  - Enemies
+  - Patrols
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ZonasOscuras
+    uniqueID: 466967299
+    locked: 0
+  - name: Tile
+    uniqueID: 204041973
+    locked: 0
