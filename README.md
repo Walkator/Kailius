@@ -1,7 +1,7 @@
 ![screenshot](images/0.png)
 
 # Kailius
-Juego 2D plataforma desarrollado en Unity.
+Platform Game 2D developed in Unity.
 
 ## :warning: Requirements
 * Android 5.0+
