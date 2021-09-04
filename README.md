@@ -1,7 +1,7 @@
 ![screenshot](images/0.png)
 
 # Kailius
-Platform Game 2D developed in Unity.
+Platform Game 2D developed in Unity for Android, Windows and Linux.
 
 ## :warning: Requirements
 * Android 5.0+
