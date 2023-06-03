@@ -1,4 +1,4 @@
-![screenshot](images/kailiusDemo.webm)
+![caption](images/kailiusDemo.gif)
 
 # Kailius
 In Kailius, players embark on an exhilarating adventure through a captivating 2D platforming world. Developed using Unity, this engrossing game is available for Android, Windows, and Linux platforms, allowing gamers to immerse themselves in its enchanting universe on their preferred devices.
