@@ -1,4 +1,7 @@
 ![caption](images/kailiusDemo.gif)
+<div>
+    <img src="https://hits-app.vercel.app/hits?url=https://github.com/walkator/kailius&bgLeft=000000&bgRight=6511c8&label=visits" alt="Counter visits"/>
+</div>
 
 # Kailius
 In Kailius, players embark on an exhilarating adventure through a captivating 2D platforming world. Developed using Unity, this engrossing game is available for Android, Windows, and Linux platforms, allowing gamers to immerse themselves in its enchanting universe on their preferred devices.
